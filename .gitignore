@@ -1,0 +1,11 @@
+# User specific files
+KeyValueCache.xcodeproj/project.xcworkspace/xcuserdata/
+KeyValueCache.xcodeproj/xcuserdata/
+KeyValueCache.xcworkspace/xcuserdata/
+
+# External dependencies
+Pods/
+
+# OS Specific files
+.DS_Store*
+._*
